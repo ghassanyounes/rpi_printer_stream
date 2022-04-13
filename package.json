@@ -1,0 +1,19 @@
+{
+  "name": "rpi_printer_stream",
+  "version": "1.0.0",
+  "description": "Raspberry Pi Prusa Printer Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghassanyounes/rpi_printer_stream.git"
+  },
+  "author": "Ghassan Younes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghassanyounes/rpi_printer_stream/issues"
+  },
+  "homepage": "https://github.com/ghassanyounes/rpi_printer_stream#readme"
+}
